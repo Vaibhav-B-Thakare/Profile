@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Windchill Documentation",
+        "url": "https://support.ptc.com/help/windchill/"
+    },
+    {
+        "name": "VirtualBox User Manual",
+        "url": "https://www.virtualbox.org/manual/UserManual.html"
+    },
+    {
+        "name": "Linux Man Pages",
+        "url": "https://linux.die.net/man/"
+    },
+    {
+        "name": "HTML Reference (MDN)",
+        "url": "https://developer.mozilla.org/en-US/docs/Web/HTML"
+    },
+    {
+        "name": "SQL Tutorial",
+        "url": "https://www.sqltutorial.org/"
+    },
+    {
+        "name": "AWS Documentation",
+        "url": "https://aws.amazon.com/documentation/"
+    }
+]
